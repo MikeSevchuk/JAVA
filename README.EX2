@@ -1,1 +1,4 @@
+In ex2.java i create a simple tic tac toe game.Player 1 using the X and player 2 using the O symbol.Player 1 always 
+starts first with symbol "X" and player 2 always starts second with symbol "O".If there is a finnal winner ,we pop up
+a window with the winner player.
 
